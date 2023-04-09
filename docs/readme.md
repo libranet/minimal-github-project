@@ -7,8 +7,8 @@ https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contr
 
 ## General naming conventions
  - use lowercase for filenames whenever possible. No need to SHOUT!
- - always use a proper file-extension, no README, but readme.md
- - Avoid polluting the root of your project-directory.
+ - always use a proper file-extension. Not *README*, but *readme.md*.
+ - Avoid polluting the root of your project-directory with file that are not required to be in the root.
  - Only keep files in the root if there are really required there.
  - *.yaml* is the official file-extension for YAML-files.
 
